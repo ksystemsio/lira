@@ -101,7 +101,7 @@ const unsigned THREAD_STACK_SIZE                             = 5 * 1024 * 1024;
 
 //TODO Add here your network seed nodes
 const std::initializer_list<const char*> SEED_NODES = {
-  //"your_seed_ip1.com:8080",
+  77.108.0.245:50077",
   //"your_seed_ip2.com:8080",
 };
 
